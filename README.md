@@ -1,4 +1,4 @@
-## Olá! Seja bem vindo ao meu perfil!!
+## Olá! Seja bem vindo ao meu perfil!
  <div>
   <a href="https://github.com/GiovanniBranco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanniBranco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
